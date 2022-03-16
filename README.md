@@ -34,8 +34,8 @@ Screenshot 2022-03-16 151015.pngs
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/kvandana451/Order-Summary-Component.git)
+- Live Site URL:( https://kvandana451.github.io/Order-Summary-Component/)
 
 ## My process
 
